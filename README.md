@@ -4,8 +4,7 @@
 - <b>Automatic Bacteria Streaking robot</b>
   -[CAD design, Microcontroller implementation, 3D printing, motor and sensor handling]
    [Automatic Bacteria Streaking Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
-- <b>Robot Worm</b>
-  -[]
+
 
 <h2>📺 Popular YouTube Videos</h2>
 - [Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
