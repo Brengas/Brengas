@@ -1,7 +1,7 @@
 <h1>Hi, I'm Saul! <br/><a href="https://github.com/Brengas">Bionics Engineer</a>, <a href="https://www.linkedin.com/in/saul-bringas/">Robotics enthusiast</a>
 
 <h2>👨‍💻 Robotics Projects:</h2>
-- <b>Automatic Bacteria Streaking Robot(Robotics Control, ESP32, CAD design, 3D print)</b>
+- <b>Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)</b>
   - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
   
 
