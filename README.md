@@ -4,11 +4,11 @@
 - <b>Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)</b>
   - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
   
+## 👨‍💻 Robotics Projects:
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- **Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)**  
+  - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>📺 Robot YouTube Videos</h2>
 -[Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
