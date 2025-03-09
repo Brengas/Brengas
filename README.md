@@ -1,14 +1,14 @@
 <h1>Hi, I'm Saul! <br/><a href="https://github.com/Brengas">Bionics Engineer</a>, <a href="https://www.linkedin.com/in/saul-bringas/">Robotics enthusiast</a>
 
 <h2>👨‍💻 Robotics Projects:</h2>
-- <b>Automatic Bacteria Streaking robot</b>
-  -[CAD design, Microcontroller implementation, 3D printing, motor and sensor handling](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
+- <b>Automatic Bacteria Streaking Robot</b>
+  - [Automatic Bacteria Streaking Robot](https://github.com/joshmadakor1/Algorithms-Practice)
   
 
 
-<h2>📺 Popular YouTube Videos</h2>
-- [Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
-- [Automatic Bacteria Streaking Robot](https://www.youtube.com/shorts/pXCyQN5C-c0)
+<h2>📺 Robot YouTube Videos</h2>
+-[Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
+-[Automatic Bacteria Streaking Robot](https://www.youtube.com/shorts/pXCyQN5C-c0)
 
 <h2> 🤳 Connect with me:</h2>
 
