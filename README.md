@@ -25,8 +25,14 @@
 - [Robot Hexapod](https://www.youtube.com/shorts/8HReUtSeT0g)
 
 ## 📜 Courses
-- [ROS for Beginners: Basics, Motion and OpenCV](ude.my/UC-c5765fc7-450e-44e3-a159-2d5cebb5d726)
-- [MATLAB](ude.my/UC-3f43cbc1-068f-4c3c-9ec1-676dd334ae6f)
+
+- **[ROS for Beginners: Basics, Motion and OpenCV](https://ude.my/UC-c5765fc7-450e-44e3-a159-2d5cebb5d726)**  
+  - *Issued by: Udemy*  
+  - *Skills Learned: ROS, OpenCV, Robot Motion Planning*
+
+- **[MATLAB](https://ude.my/UC-3f43cbc1-068f-4c3c-9ec1-676dd334ae6f)**  
+  - *Issued by: Udemy*  
+  - *Skills Learned: MATLAB Programming, Data Analysis, Simulation*
 ## 🤳 Connect with me:
 
 [<img align="left" alt="Saul Bringas | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
