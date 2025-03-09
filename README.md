@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Robotics Projects:</h2>
 - <b>Automatic Bacteria Streaking robot</b>
-  -[CAD design, Microcontroller implementation, 3D printing, motor and sensor handling]
-  -[Automatic Bacteria Streaking Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
+  -[CAD design, Microcontroller implementation, 3D printing, motor and sensor handling](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
+  
 
 
 <h2>📺 Popular YouTube Videos</h2>
