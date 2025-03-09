@@ -1,18 +1,20 @@
 <h1>Hi, I'm Saul! <br/><a href="https://github.com/Brengas">Bionics Engineer</a>, <a href="https://www.linkedin.com/in/saul-bringas/">Robotics enthusiast</a>
-
-<h2>👨‍💻 Robotics Projects:</h2>
-- <b>Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)</b>
-  - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
   
 ## 👨‍💻 Robotics Projects:
 
 - **Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)**  
   - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
+    
+- **Worm Robot (Arduino Nano, Servo Motors, 3D Printing)**  
+  - [Worm-Robot](https://github.com/Brengas/Worm-Robot)
 
+- **Hexapod Robot (Work in Progress, 18 Servo Motors, PCA9685 Drivers, Arduino Nano)**  
+  - [Hexapod-Robot](https://github.com/Brengas/Hexapod-Robot)
 
 <h2>📺 Robot YouTube Videos</h2>
--[Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
 -[Automatic Bacteria Streaking Robot](https://www.youtube.com/shorts/pXCyQN5C-c0)
+-[Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
+-[Robot Hexapod](https://www.youtube.com/shorts/8HReUtSeT0g)
 
 <h2> 🤳 Connect with me:</h2>
 
