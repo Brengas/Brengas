@@ -6,7 +6,7 @@
 | **Category**              | **Skills**                                                                                       |
 |---------------------------|--------------------------------------------------------------------------------------------------|
 | **Programming Languages** | Python, C++, C, MATLAB                                                                           |
-| **Robotics & Embedded**   | Arduino (Nano, Mega), ESP32, ROS,Motor Control, Sensor Integration, GRBL                         | 
+| **Robotics & Embedded**   | Arduino (Nano, Mega), ESP32, ROS, Motor Control, Sensor Integration, GRBL                         | 
 | **CAD & 3D Design**       | Fusion 360, SolidWorks, 3D Printing (FDM)                                                        |
 | **Software Tools**        | Git & GitHub, Linux (Ubuntu), OpenCV, Simulink                                                   |
 | **Electronics & Hardware**| Circuit Design, PCB Design (KiCad, Proteus), Power Management, Motor Drivers                     |
