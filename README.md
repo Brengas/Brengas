@@ -1,9 +1,10 @@
 <h1>Hi, I'm Saul! <br/><a href="https://github.com/Brengas">Bionics Engineer</a>, <a href="https://www.linkedin.com/in/saul-bringas/">Robotics enthusiast</a>
+
+## 🔭 My skills:
   
 ## 👨‍💻 Robotics Projects:
 
-- **Automatic Bacteria Streaking Robot (Robotics Control, ESP32, CAD design, 3D print)**  
-  - [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
+- [Automatic-Bacteria-Streaking-Robot](https://github.com/Brengas/Automatic-Bacteria-Streaking-Robot)
     
 - **Worm Robot (Arduino Nano, Servo Motors, 3D Printing)**  
   - [Worm-Robot](https://github.com/Brengas/Worm-Robot)
@@ -32,7 +33,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
