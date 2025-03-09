@@ -11,10 +11,15 @@
 - **Hexapod Robot (Work in Progress, 18 Servo Motors, PCA9685 Drivers, Arduino Nano)**  
   - [Hexapod-Robot](https://github.com/Brengas/Hexapod-Robot)
 
-<h2>📺 Robot YouTube Videos</h2>
--[Automatic Bacteria Streaking Robot](https://www.youtube.com/shorts/pXCyQN5C-c0)
--[Robot Worm](https://www.youtube.com/shorts/ToYCTjIG7vk)
--[Robot Hexapod](https://www.youtube.com/shorts/8HReUtSeT0g)
+## 📺 Robot YouTube Videos:
+- **Automatic Bacteria Streaking Robot**  
+  - [Watch Video](https://www.youtube.com/shorts/pXCyQN5C-c0)
+
+- **Robot Worm**  
+  - [Watch Video](https://www.youtube.com/shorts/ToYCTjIG7vk)
+
+- **Robot Hexapod**  
+  - [Watch Video](https://www.youtube.com/shorts/8HReUtSeT0g)
 
 <h2> 🤳 Connect with me:</h2>
 
